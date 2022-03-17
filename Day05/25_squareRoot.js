@@ -7,3 +7,4 @@ function solution(n) {
     //x가 정수라면, 항상 1로 나누어떨어진다.
     else return -1
 }
+
